@@ -9,8 +9,9 @@
 // Local Storage'da veri saklamak için JSON.stringify() ve JSON.parse() metotları kullanılabilir.
 
 // // Local Storage'a veri eklemek
-// let userName = "Varol";
-// localStorage.setItem("name", userName);
+//let userName = "Merve";
+//localStorage.setItem("name", userName);
+//console.log(userName);
 
 // // Local Storage'dan veri almak
 // let name = localStorage.getItem("name");
@@ -23,7 +24,7 @@
 // console.log(typeof age);
 
 // let user = {
-//   name: "Varol",
+//   name: "Merve",
 //   age: 25,
 //   city: "Ankara",
 //   lang: ["Java", "Python", "Javascript"],
@@ -86,13 +87,13 @@
 // console.log(langs);
 
 // Destructing Assignment
-let user = {
-  name: "Varol",
-  age: 25,
-  city: "Ankara",
-  lang: ["Java", "Python", "Javascript"],
-};
+//let user = {
+//  name: "Varol",
+//  age: 25,
+//  city: "Ankara",
+//  lang: ["Java", "Python", "Javascript"],
+//};
 
-let { name, ...geriKalanlar } = user;
+//let { name, ...geriKalanlar } = user;
 
-console.log(name, geriKalanlar);
+//console.log(name, geriKalanlar);

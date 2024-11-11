@@ -11,16 +11,24 @@
 // value = document.links[document.links.length - 1].classList;
 
 // // ID ile seçme
-// value = document.getElementById("title");
-// value = document.getElementById("title").textContent;
-// value = document.getElementById("title").innerHTML;
+//value = document.getElementById("title");
+//console.log(value);
+//value = document.getElementById("title").textContent;
+//console.log(value);
+//value = document.getElementById("title").innerHTML;
+//console.log(value);
 
 // // Class ile seçme
-// value = document.getElementsByClassName("text");
-// value = document.getElementsByClassName("text")[0];
+//value = document.getElementsByClassName("text");
+//console.log(value);
+
+//value = document.getElementsByClassName("text")[0];
+//console.log(value);
+
 
 // // Tag ile seçme
-// value = document.getElementsByTagName("p");
+//value = document.getElementsByTagName("p");
+//console.log(value);
 
 // // Query ile seçme
 // value = document.querySelector("#title");

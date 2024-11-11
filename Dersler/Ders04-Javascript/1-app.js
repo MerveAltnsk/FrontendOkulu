@@ -40,10 +40,10 @@
 //   age >= 18 ? console.log("Ehliyet alabilir") : console.log("Ehliyet alamaz");
 // }
 
-// Undefined - Tanımsız
-// var userName;
-// console.log(userName);
-// console.log(typeof userName);
+//Undefined - Tanımsız
+//var userName;
+//console.log(userName);
+//console.log(typeof userName);
 
 // Null - Değer yok
 // var isNull = null;
